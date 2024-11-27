@@ -1,0 +1,10 @@
+.navbar {
+    background-color: #78be21
+  }
+  
+  .navbar-brand{
+    font-weight: bold;
+    color: white !important;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 200%;
+  }
